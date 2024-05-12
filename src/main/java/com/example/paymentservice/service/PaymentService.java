@@ -6,7 +6,6 @@ import com.example.paymentservice.grpc.PaymentServiceGrpc;
 import io.grpc.stub.StreamObserver;
 import lombok.AllArgsConstructor;
 import net.devh.boot.grpc.server.service.GrpcService;
-import org.springframework.stereotype.Service;
 
 @AllArgsConstructor
 @GrpcService
